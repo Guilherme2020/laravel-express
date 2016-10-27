@@ -30,6 +30,9 @@ use App\Http\Controllers\Controller;
             return view('teste.notas',compact('notas'));
         }
 
+
+
+
 //        public function posts(){
 //
 //            $posts = [
